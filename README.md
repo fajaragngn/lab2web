@@ -68,6 +68,14 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 
 	Saya menambahkan 4 selektor ke dalam CSS, diantaranya body, h2, .avatar, .header-profile. Masing-masing memiliki fungsi untuk mengatur tampilan pada html
 
+	pada selektor body saya menambahkan beberapa properti, yaitu margin, width, font-size, color, dst.
+
+	selektor h2, properti font-weight, font-size
+
+	selektor .avatar, properti width, border-radius
+
+	selektor .header-profile, display, justify-content, align-items
+
 	![img1-1!](assets/img/praktikum/1-1.png)
 
 
