@@ -68,6 +68,6 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 	selector id bersifat kaku dan tidak bisa digunakan kembali pada element yang lainnya. Menurut saya lebih baik gunakan selektor class untuk mendefinisikan element yang ingin diberi nilai.
 ![img2!](assets/img/praktikum/2.png)
 
-3. Setelah dilakukan pengujian, deklarasi CSS Inline lebih dahulu tampil di browser, karena permintaan HTTP yang sangat kecil memungkinkan untuk ditampilkan dahulu
+3. Setelah dilakukan pengujian, deklarasi CSS Inline lebih dahulu tampil di browser, itu dikarenakan permintaan HTTP yang sangat kecil memungkinkan untuk ditampilkan dahulu
 	
 	![img5-1!](assets/img/praktikum/3.png)
