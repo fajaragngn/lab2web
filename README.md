@@ -24,7 +24,7 @@ simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasiln
 ## 3. Menambahkan Inline CSS
 tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut
 
-![img3!](assets/img/3/3.png)
+![img3!](assets/img/3/3-2.png)
 
 Refresh kembali browser untuk melihat perubahannya
 
