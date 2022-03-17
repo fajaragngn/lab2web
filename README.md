@@ -69,5 +69,10 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 ![img2!](assets/img/praktikum/2.png)
 
 3. Setelah dilakukan pengujian, deklarasi CSS Inline lebih dahulu tampil di browser, itu dikarenakan permintaan HTTP yang sangat kecil memungkinkan untuk ditampilkan dahulu
+
+	Berikut merupakan hasil deklarasi CSS
+	CSS Inline `blue`
+	CSS Internal `red`
+	CSS Eksternal `yellow`
 	
 	![img5-1!](assets/img/praktikum/3.png)
