@@ -8,7 +8,9 @@ Membuka text editor, Saya menggunakan Sublime text
 ![img1!](assets/img/praktikum/start.png)
 
 ## 1. Membuat Dokumen HTML
-
+![img1!](assets/img/1/1.png)
+Buka pada browser untuk melihat hasilnya
+![img1-1!](assets/img/1/1-1.png)
 
 ## 2. Mendeklarasikan CSS Internal
 
