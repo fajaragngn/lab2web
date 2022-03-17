@@ -60,7 +60,7 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( `<p id="paragraf-1" class="text-paragraf">` )
 
 ## Jawab
-1. 
+1. Saya akan
 
 2. `h1{}` Untuk memberikan style pada semua tag h1
 
@@ -81,4 +81,5 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 	![img3!](assets/img/praktikum/3.png)
 
 4. Deklarasi `id="paragraf-1"` akan ditampilkan pada browser, karena selektor id lebih spesifik dari class atau bahkan element P itu sendiri, kecuali jika kita menambahkan property pada inline element P maka selektor id tersebut akan tertimpa, karena inline lebih spesifik daripada id, class, dan element
-![img4!](assets/img/praktikum/4.png)
+
+	![img4!](assets/img/praktikum/4.png)
