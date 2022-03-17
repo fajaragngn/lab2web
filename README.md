@@ -50,7 +50,7 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
 
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 
-![img5-1!](assets/img/3/5-1.png)
+![img5-1!](assets/img/5/5-1.png)
 
 
 ## Pertanyaan dan Tugas
