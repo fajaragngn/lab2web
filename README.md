@@ -83,7 +83,7 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 	![img1-2!](assets/img/praktikum/1-2.png)
 
 
-2. `h1{}` Untuk memberikan style pada semua tag h1
+2. `h1{}` Untuk memberikan style pada semua element h1
 
 	`#intro h1{}` Awalan simbol hash (#) memungkinkan kita untuk memberi style pada id.
 	selector id bersifat kaku dan tidak bisa digunakan kembali pada element yang lainnya. Menurut saya lebih baik gunakan selektor class untuk mendefinisikan element yang ingin diberi nilai.
