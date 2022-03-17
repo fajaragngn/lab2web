@@ -22,7 +22,13 @@ simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasiln
 ![img2-1!](assets/img/2/2-1.png)
 
 ## 3. Menambahkan Inline CSS
+tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut
 
+![img3!](assets/img/3/3.png)
+
+Refresh kembali browser untuk melihat perubahannya
+
+![img3-1!](assets/img/3/3-1.png)
 
 ## 4. Membuat CSS Eksternal
 
