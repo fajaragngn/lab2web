@@ -78,6 +78,9 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 
 	![img1-1!](assets/img/praktikum/1-1.png)
 
+	Pada hasil tersebut dapat dilihat, pada mode mobile lebar body terlalu ke tengah, karena widht pada selektor body diatur dengan nilai 50% pada ukuran desktop, agar dapat terlihat proporsional pada ukuran mobile dapat ditambahkan selektor `@media only screen and (max-width: 760px)`, dan hasil nya bisa dilihat 
+
+	![img1-2!](assets/img/praktikum/1-2.png)
 
 
 2. `h1{}` Untuk memberikan style pada semua tag h1
