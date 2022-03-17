@@ -31,7 +31,6 @@ Refresh kembali browser untuk melihat perubahannya
 ![img3-1!](assets/img/3/3-1.png)
 
 ## 4. Membuat CSS Eksternal
-
 Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut
 
 ![img4!](assets/img/4/4.png)
@@ -45,7 +44,13 @@ Selanjutnya refresh kembali browser untuk melihat perubahannya.
 ![img4-1!](assets/img/4/4-2.png)
 
 ## 5. Menambahkan CSS Selektor
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut
 
+![img5!](assets/img/5/5.png)
+
+Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
+
+![img5-1!](assets/img/3/5-1.png)
 
 
 ## Pertanyaan dan Tugas
