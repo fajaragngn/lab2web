@@ -60,4 +60,8 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( `<p id="paragraf-1" class="text-paragraf">` )
 
 ## Jawab
-1. aowkoakwoaowko nungguin ya
+1. 
+
+2. `h1{}` Untuk memberikan style pada semua tag h1
+	`#intro h1{}` Awalan simbol hash (#) memungkinkan kita untuk memberi style pada id.
+	selector id bersifat kaku dan tidak bisa digunakan kembali pada element yang lainnya. Menurut saya lebih baik gunakan selektor class untuk mendefinisikan element yang ingin diberi nilai.
