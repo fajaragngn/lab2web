@@ -1,0 +1,8 @@
+h1 {
+	color: #418fb1;
+	font-size: 5em;
+}
+#intro h1 {
+	border: 5 solid black;
+	font-size: 3em;
+}
