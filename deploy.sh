@@ -13,6 +13,6 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
-git push -u origin master
+git push origin master
 
 cd ..
