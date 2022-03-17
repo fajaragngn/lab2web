@@ -11,12 +11,14 @@ Membuka text editor, Saya menggunakan Sublime text
 ![img1!](assets/img/1/1.png)
 
 Buka pada browser untuk melihat hasilnya
+
 ![img1-1!](assets/img/1/1-1.png)
 
 ## 2. Mendeklarasikan CSS Internal
 ![img2!](assets/img/2/2.png)
 
 simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasilnya
+
 ![img2-1!](assets/img/2/2-1.png)
 
 ## 3. Menambahkan Inline CSS
