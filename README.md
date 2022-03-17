@@ -78,4 +78,7 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 	
 	CSS Eksternal `yellow`
 	
-	![img5-1!](assets/img/praktikum/3.png)
+	![img3!](assets/img/praktikum/3.png)
+
+4. Deklarasi `id="paragraf-1"` akan ditampilkan pada browser, karena selektor id lebih spesifik dari class atau bahkan element P itu sendiri, kecuali jika kita menambahkan property pada inline element P maka selektor id tersebut akan tertimpa, karena inline lebih spesifik daripada id, class, dan element
+![img4!](assets/img/praktikum/4.png)
