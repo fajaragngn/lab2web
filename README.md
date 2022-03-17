@@ -66,6 +66,8 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 
 	Kemudian membuat CSS nya dengan menambah properti dan nilai pada kode
 
+	Saya menambahkan 4 selektor ke dalam CSS, diantaranya body, h2, .avatar, .header-profile. Masing-masing memiliki fungsi untuk mengatur tampilan pada html
+
 	![img1-1!](assets/img/praktikum/1-1.png)
 
 
