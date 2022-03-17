@@ -3,7 +3,7 @@
 | NIM     | 312010448       |
 | Kelas   | TI.20.A.1        |
 
-## Langkah langkah praktikum
+## Langkah langkah praktikum 2
 Membuka text editor, Saya menggunakan Sublime text
 ![img1!](assets/img/praktikum/start.png)
 
