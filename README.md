@@ -60,3 +60,4 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( `<p id="paragraf-1" class="text-paragraf">` )
 
 ## Jawab
+1. aowkoakwoaowko nungguin ya
