@@ -70,7 +70,7 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 
 3. Setelah dilakukan pengujian, deklarasi CSS Inline lebih dahulu tampil di browser, itu dikarenakan permintaan HTTP yang sangat kecil memungkinkan untuk ditampilkan dahulu
 
-	Berikut merupakan hasil deklarasi CSS
+	Berikut merupakan hasil pengujian deklarasi CSS
 
 	CSS Inline `blue`
 	
